@@ -13,12 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CogMetrics Pilot",
+  title: "CogMetrics | Avaliação Neuropsicológica",
   description:
-    "Ambiente piloto para gestão de avaliações neuropsicológicas e psicométricas.",
-  other: {
-    "codex-preview": "development",
-  },
+    "Prontuários, avaliações, instrumentos e documentos em um ambiente integrado de demonstração.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
